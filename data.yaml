@@ -1,0 +1,7 @@
+path: C:\Users\desmo\Desktop\code_for_github\YOLO_cyanobacteria_model\darkfield_mixed\
+train: images
+val: images
+
+names:
+  0: synechocystis
+  1: pseudomonas
